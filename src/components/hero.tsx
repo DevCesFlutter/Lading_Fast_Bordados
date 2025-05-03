@@ -8,17 +8,18 @@ export default function Hero() {
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
           FastBordados
         </h1>
-        <h5>Estamos ubicados en peñaflor</h5>
 
         {/* Subtítulo */}
-        <p className="text-lg text-gray-600 mb-8">
+        <p className="text-3xl text-gray-800 mb-10 font-stretch-semi-condensed">
           Precisión, rapidez y estilo en cada puntada.
         </p>
-        <p className="text-lg text-gray-600 mb-8 ">
+        <p className="text-2xl text-gray-600 mb-8 ">
           Personaliza tu ropa con parches e insignias oficiales.
           <br /> ¡También trabajamos sobre prendas ya confeccionadas! <br />
           Contamos con logos de diversas instituciones <br />
           consulta si ya tenemos el tuyo y haz que tu identidad se luzca.
+          <br />
+          ubicados en la comuna de penaflor envios a convenir
         </p>
 
         {/* Botón de llamada a la acción */}
