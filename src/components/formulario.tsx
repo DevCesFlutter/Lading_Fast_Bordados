@@ -12,7 +12,11 @@ export default function ContactForm() {
           method="POST"
         >
           <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_next" value="http://localhost:3000/" />
+          <input
+            type="hidden"
+            name="_next"
+            value="https://fastbordados.vercel.app/"
+          />
 
           <input
             name="name"
