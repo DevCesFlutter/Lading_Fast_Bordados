@@ -11,7 +11,7 @@ export default function Header() {
         {/* TItulo */}
         <div>
           <img
-            src="Logo.png"
+            src="logo.png"
             alt="Muestra de bordado"
             className=" w-30 h-30  mx-auto mt-8 rounded-4xl"
           />
