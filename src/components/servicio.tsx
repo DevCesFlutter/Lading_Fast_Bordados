@@ -2,7 +2,7 @@ export default function AboutService() {
   return (
     <section className="bg-gray-100 py-20" id="servicio">
       <div className="container mx-auto px-6 text-center">
-        <h2 className="text-3xl font-bold text-gray-800 mb-8">
+        <h2 className="text-3xl font-extrabold text-gray-800 mb-8">
           ¿Por qué elegirnos?
         </h2>
 
@@ -57,6 +57,40 @@ export default function AboutService() {
               />
             </svg>
             Calidad garantizada en cada diseño.
+          </li>
+          <li className="flex items-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-6 h-6 text-blue-600 mr-3"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M5 12l5 5L19 7"
+              />
+            </svg>
+            Ideal para ropa, logos, regalos, etc.
+          </li>
+          <li className="flex items-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-6 h-6 text-blue-600 mr-3"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M5 12l5 5L19 7"
+              />
+            </svg>
+            Alta precisión y durabilidad.
           </li>
         </ul>
       </div>

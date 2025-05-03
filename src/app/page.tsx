@@ -6,12 +6,14 @@ import Testimonials from "@/components/testimonials";
 import ContactForm from "@/components/formulario";
 import Footer from "@/components/footer";
 import Imagen from "@/components/imagehero";
+import ComoPedir from "@/components/how";
 
 export default function Home() {
   return (
     <div>
       <Header />
       <Hero />
+      <ComoPedir />
       <Imagen />
       <AboutService />
       <Gallery />
