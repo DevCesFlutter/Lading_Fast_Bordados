@@ -46,6 +46,7 @@ export const metadata: Metadata = {
     locale: "es_CL",
     type: "website",
   },
+  robots: "index, follow",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#ffffff" },
     { media: "(prefers-color-scheme: dark)", color: "#000000" },
