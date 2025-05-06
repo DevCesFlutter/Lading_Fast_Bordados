@@ -1,5 +1,6 @@
-/** @type {import('next-sitemap').IConfig} */
+// next-sitemap.config.js
 module.exports = {
-  siteUrl: "https://fastbordados.vercel.app", // ← Reemplaza esto por tu dominio real
-  generateRobotsTxt: true, // Genera también el archivo robots.txt
+  siteUrl: "https://fastbordados.vercel.app",
+  generateRobotsTxt: true, // opción de generar robots.txt
+  sitemapSize: 1,
 };
