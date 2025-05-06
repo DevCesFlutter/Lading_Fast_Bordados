@@ -1,3 +1,9 @@
+# *
 User-agent: *
 Allow: /
+
+# Host
+Host: https://fastbordados.vercel.app
+
+# Sitemaps
 Sitemap: https://fastbordados.vercel.app/sitemap.xml
